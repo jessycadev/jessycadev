@@ -1,3 +1,6 @@
+<!--Banner-->
+![jessycadev Banner Image](./banner.png)
+
 ### <strong>Hi</strong> 👋 <I'm Jéssyca de Oliveira> 👾
 
 I'm a student of Software Engineer, and programmer analyst at Serabi Gold, and I've been working in tech since
